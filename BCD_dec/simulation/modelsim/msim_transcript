@@ -1,0 +1,51 @@
+# Reading F:/Quartus/modelsim_ase/tcl/vsim/pref.tcl
+# do BCD_dec_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying F:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied F:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+E:/cmWork/FPGA/BCD_dec {E:/cmWork/FPGA/BCD_dec/BCD_dec.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 19:07:09 on Sep 09,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/cmWork/FPGA/BCD_dec" E:/cmWork/FPGA/BCD_dec/BCD_dec.v 
+# -- Compiling module BCD_dec
+# 
+# Top level modules:
+# 	BCD_dec
+# End time: 19:07:09 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+E:/cmWork/FPGA/BCD_dec/simulation/modelsim {E:/cmWork/FPGA/BCD_dec/simulation/modelsim/BCD_dec_vlg_tst.vt}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 19:07:09 on Sep 09,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/cmWork/FPGA/BCD_dec/simulation/modelsim" E:/cmWork/FPGA/BCD_dec/simulation/modelsim/BCD_dec_vlg_tst.vt 
+# -- Compiling module BCD_dec_vlg_tst
+# 
+# Top level modules:
+# 	BCD_dec_vlg_tst
+# End time: 19:07:09 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  BCD_dec_vlg_tst
+# vsim -gui "+altera" -l msim_transcript -do "BCD_dec_run_msim_rtl_verilog.do" 
+# Start time: 19:07:10 on Sep 09,2018
+# Loading work.BCD_dec_vlg_tst
+# Loading work.BCD_dec
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 800 ns
+# Running testbench
+# End time: 19:08:19 on Sep 09,2018, Elapsed time: 0:01:09
+# Errors: 0, Warnings: 0

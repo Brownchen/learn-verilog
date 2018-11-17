@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/cmWork/FPGA/comp4/simulation/modelsim
+vcomp4
+!s110 1536414210
+!i10b 1
+!s100 ?KQ]i8g3BVUhR1fJf8hGl0
+IzWFFe23R1:z9Bcj;K@c_71
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1536413082
+8E:/cmWork/FPGA/comp4/comp4.v
+FE:/cmWork/FPGA/comp4/comp4.v
+L0 1
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1536414210.936000
+!s107 E:/cmWork/FPGA/comp4/comp4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/FPGA/comp4|E:/cmWork/FPGA/comp4/comp4.v|
+!i113 1
+Z3 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+E:/cmWork/FPGA/comp4
+vcomp4_vlg_tst
+!s110 1536414211
+!i10b 1
+!s100 PW^_maEzAVK?W_2Nc[SgL3
+IjbAI;MJEoio:=n;;a<0@R1
+R1
+R0
+w1536414199
+8E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt
+FE:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt
+L0 29
+R2
+r1
+!s85 0
+31
+!s108 1536414211.045000
+!s107 E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/FPGA/comp4/simulation/modelsim|E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt|
+!i113 1
+R3
+!s92 -vlog01compat -work work +incdir+E:/cmWork/FPGA/comp4/simulation/modelsim

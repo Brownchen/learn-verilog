@@ -1,0 +1,57 @@
+# Reading F:/Quartus/modelsim_ase/tcl/vsim/pref.tcl
+# do comp4_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying F:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied F:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+E:/cmWork/FPGA/comp4 {E:/cmWork/FPGA/comp4/comp4.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 21:43:30 on Sep 08,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/cmWork/FPGA/comp4" E:/cmWork/FPGA/comp4/comp4.v 
+# -- Compiling module comp4
+# 
+# Top level modules:
+# 	comp4
+# End time: 21:43:30 on Sep 08,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+E:/cmWork/FPGA/comp4/simulation/modelsim {E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 21:43:31 on Sep 08,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/cmWork/FPGA/comp4/simulation/modelsim" E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt 
+# -- Compiling module comp4_vlg_tst
+# 
+# Top level modules:
+# 	comp4_vlg_tst
+# End time: 21:43:31 on Sep 08,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  comp4_vlg_tst
+# vsim -gui "+altera" -l msim_transcript -do "comp4_run_msim_rtl_verilog.do" 
+# Start time: 21:43:31 on Sep 08,2018
+# Loading work.comp4_vlg_tst
+# Loading work.comp4
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt(55)
+#    Time: 800 ns  Iteration: 0  Instance: /comp4_vlg_tst
+# 1
+# Break in Module comp4_vlg_tst at E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt line 55
+# Simulation Breakpoint: 1
+# Break in Module comp4_vlg_tst at E:/cmWork/FPGA/comp4/simulation/modelsim/comp4_vlg_tst.vt line 55
+# MACRO ./comp4_run_msim_rtl_verilog.do PAUSED at line 17
+# End time: 21:46:18 on Sep 08,2018, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 0

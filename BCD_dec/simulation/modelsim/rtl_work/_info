@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/cmWork/FPGA/BCD_dec/simulation/modelsim
+vBCD_dec
+Z1 !s110 1536491229
+!i10b 1
+!s100 kLQc:z6oVGIaJPSXabfoc1
+I77Gz3>ah5WE=O;AabA8PS0
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1536489069
+8E:/cmWork/FPGA/BCD_dec/BCD_dec.v
+FE:/cmWork/FPGA/BCD_dec/BCD_dec.v
+L0 24
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1536491229.746000
+!s107 E:/cmWork/FPGA/BCD_dec/BCD_dec.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/FPGA/BCD_dec|E:/cmWork/FPGA/BCD_dec/BCD_dec.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+E:/cmWork/FPGA/BCD_dec
+n@b@c@d_dec
+vBCD_dec_vlg_tst
+R1
+!i10b 1
+!s100 EPdibb1CoYl7L_UUn_>T10
+Iog?Qk2oUjmLSQ9`>]YWRS0
+R2
+R0
+w1536491213
+8E:/cmWork/FPGA/BCD_dec/simulation/modelsim/BCD_dec_vlg_tst.vt
+FE:/cmWork/FPGA/BCD_dec/simulation/modelsim/BCD_dec_vlg_tst.vt
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1536491229.890000
+!s107 E:/cmWork/FPGA/BCD_dec/simulation/modelsim/BCD_dec_vlg_tst.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/FPGA/BCD_dec/simulation/modelsim|E:/cmWork/FPGA/BCD_dec/simulation/modelsim/BCD_dec_vlg_tst.vt|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+E:/cmWork/FPGA/BCD_dec/simulation/modelsim
+n@b@c@d_dec_vlg_tst

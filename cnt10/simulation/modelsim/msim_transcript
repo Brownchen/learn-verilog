@@ -1,0 +1,57 @@
+# Reading F:/Quartus/modelsim_ase/tcl/vsim/pref.tcl
+# do cnt10_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying F:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied F:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+E:/cmWork/FPGA/cnt10 {E:/cmWork/FPGA/cnt10/cnt10.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 21:35:53 on Sep 10,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/cmWork/FPGA/cnt10" E:/cmWork/FPGA/cnt10/cnt10.v 
+# -- Compiling module cnt10
+# 
+# Top level modules:
+# 	cnt10
+# End time: 21:35:53 on Sep 10,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+E:/cmWork/FPGA/cnt10/simulation/modelsim {E:/cmWork/FPGA/cnt10/simulation/modelsim/cnt10_vlg_tst.vt}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 21:35:53 on Sep 10,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/cmWork/FPGA/cnt10/simulation/modelsim" E:/cmWork/FPGA/cnt10/simulation/modelsim/cnt10_vlg_tst.vt 
+# -- Compiling module cnt10_vlg_tst
+# 
+# Top level modules:
+# 	cnt10_vlg_tst
+# End time: 21:35:53 on Sep 10,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  cnt10_vlg_tst
+# vsim -gui "+altera" -l msim_transcript -do "cnt10_run_msim_rtl_verilog.do" 
+# Start time: 21:35:54 on Sep 10,2018
+# Loading work.cnt10_vlg_tst
+# Loading work.cnt10
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : E:/cmWork/FPGA/cnt10/simulation/modelsim/cnt10_vlg_tst.vt(57)
+#    Time: 2460 ns  Iteration: 0  Instance: /cnt10_vlg_tst
+# 1
+# Break in Module cnt10_vlg_tst at E:/cmWork/FPGA/cnt10/simulation/modelsim/cnt10_vlg_tst.vt line 57
+# Simulation Breakpoint: 1
+# Break in Module cnt10_vlg_tst at E:/cmWork/FPGA/cnt10/simulation/modelsim/cnt10_vlg_tst.vt line 57
+# MACRO ./cnt10_run_msim_rtl_verilog.do PAUSED at line 17
+# End time: 21:38:53 on Sep 10,2018, Elapsed time: 0:02:59
+# Errors: 0, Warnings: 0
