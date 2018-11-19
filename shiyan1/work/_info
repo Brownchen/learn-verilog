@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\12.1sp1\modelsim_ase
+vlzx
+!i10b 1
+Z1 !s100 1IN3HnN6_<KhoSIzP2Mg`0
+Z2 I@A0RIiX_1fh5iFl4V__QE1
+Z3 VZK>N0b;n>6gBnREnLC@Ie1
+Z4 dC:\Users\Administrator\Desktop\lzx
+Z5 w1538053339
+Z6 8C:/Users/Administrator/Desktop/lzx/lzx.v
+Z7 FC:/Users/Administrator/Desktop/lzx/lzx.v
+L0 1
+Z8 OV;L;10.1b;51
+r1
+!s85 0
+31
+!s108 1538054620.297000
+!s107 C:/Users/Administrator/Desktop/lzx/lzx.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/lzx/lzx.v|
+!s101 -O0
+Z10 o-work work -O0
+vtest
+Z11 IkGm8aM=OM:moc_jVJ1iGb1
+Z12 Vk<3<[f=78GX=_HO53D;7>3
+R4
+Z13 w1538054313
+Z14 8C:/Users/Administrator/Desktop/lzx/test.v
+Z15 FC:/Users/Administrator/Desktop/lzx/test.v
+L0 1
+R8
+r1
+31
+R10
+!i10b 1
+Z16 !s100 NI^]ACzC@^eJ4OZd=n:Hb1
+!s85 0
+Z17 !s108 1538054620.247000
+Z18 !s107 C:/Users/Administrator/Desktop/lzx/test.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/lzx/test.v|
+!s101 -O0
