@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/cmWork/learn-verilog/shumaguan/simulation/modelsim
+vshumaguan
+Z1 !s110 1542723629
+!i10b 1
+!s100 YQCQEbBUJ@TN0kCSFn>LL3
+I@NRYbB_I3bnXLK=>nB`F90
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1542722652
+8E:/FPGA/shiyan1/shumaguan.v
+FE:/FPGA/shiyan1/shumaguan.v
+L0 1
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1542723629.611000
+!s107 E:/FPGA/shiyan1/shumaguan.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/shiyan1|E:/FPGA/shiyan1/shumaguan.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+E:/FPGA/shiyan1
+vshumaguan_vlg_tst
+R1
+!i10b 1
+!s100 cF>1l0P[1zYFV8]dcL6ci1
+IHi<Xeb7RJOoAoF<^IIS>>3
+R2
+R0
+w1542723604
+8E:/cmWork/learn-verilog/shumaguan/simulation/modelsim/shumaguan.vt
+FE:/cmWork/learn-verilog/shumaguan/simulation/modelsim/shumaguan.vt
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1542723629.774000
+!s107 E:/cmWork/learn-verilog/shumaguan/simulation/modelsim/shumaguan.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/learn-verilog/shumaguan/simulation/modelsim|E:/cmWork/learn-verilog/shumaguan/simulation/modelsim/shumaguan.vt|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+E:/cmWork/learn-verilog/shumaguan/simulation/modelsim
