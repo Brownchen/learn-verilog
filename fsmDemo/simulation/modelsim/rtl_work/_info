@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/cmWork/learn-verilog/fsmDemo/simulation/modelsim
+vfsm
+Z1 !s110 1543217427
+!i10b 1
+!s100 AzRVGZ^19X[:8dUiNB:nS0
+I^e?V[9;`Z9D[^lhBKk`iT2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1543215984
+8C:/Users/Dell/Desktop/fsm.v
+FC:/Users/Dell/Desktop/fsm.v
+L0 1
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1543217427.717000
+!s107 C:/Users/Dell/Desktop/fsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Dell/Desktop|C:/Users/Dell/Desktop/fsm.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/Dell/Desktop
+vfsm_vlg_tst
+R1
+!i10b 1
+!s100 ozc`jN@0Th8o4eiNTfJ863
+Ih0g9J]43>Q]0Q[BgY@[;B3
+R2
+R0
+w1543217212
+8E:/cmWork/learn-verilog/fsmDemo/simulation/modelsim/fsm.vt
+FE:/cmWork/learn-verilog/fsmDemo/simulation/modelsim/fsm.vt
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1543217427.826000
+!s107 E:/cmWork/learn-verilog/fsmDemo/simulation/modelsim/fsm.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/learn-verilog/fsmDemo/simulation/modelsim|E:/cmWork/learn-verilog/fsmDemo/simulation/modelsim/fsm.vt|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+E:/cmWork/learn-verilog/fsmDemo/simulation/modelsim

@@ -1,0 +1,7 @@
+
+State Machine - |fsm|state
+Name state.Clear state.Stop state.Start state.Idle 
+state.Idle 0 0 0 0 
+state.Start 0 0 1 1 
+state.Stop 0 1 0 1 
+state.Clear 1 0 0 1 
