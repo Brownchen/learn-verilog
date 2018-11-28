@@ -1,0 +1,21 @@
+|sequence_detect
+clk => detected~reg0.CLK
+clk => nextstate~6.DATAIN
+clk => state~1.DATAIN
+Reset => detected~reg0.ACLR
+Reset => nextstate~8.DATAIN
+Reset => state~3.DATAIN
+data => nextstate.OUTPUTSELECT
+data => nextstate.OUTPUTSELECT
+data => nextstate.OUTPUTSELECT
+data => nextstate.OUTPUTSELECT
+data => nextstate.OUTPUTSELECT
+data => Selector0.IN3
+data => Selector0.IN4
+data => Selector3.IN3
+data => Selector0.IN2
+data => Selector1.IN2
+data => Selector2.IN2
+detected <= detected~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/cmWork/learn-verilog/sequence_detect/simulation/modelsim
+vsequence_detect
+Z1 !s110 1543404473
+!i10b 1
+!s100 M9bOAB?4InYNnm^f9@gDL0
+I?TH1@N`D:A65liYVAEH401
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1543402634
+8C:/Users/Dell/Desktop/sequence_detect.V
+FC:/Users/Dell/Desktop/sequence_detect.V
+L0 9
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1543404473.829000
+!s107 C:/Users/Dell/Desktop/sequence_detect.V|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Dell/Desktop|C:/Users/Dell/Desktop/sequence_detect.V|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/Dell/Desktop
+vsequence_detect_vlg_tst
+R1
+!i10b 1
+!s100 3PHBEO`XV0z4le8a;7g:m0
+I2RPZQ=g4zVBOnEFn_iEWL0
+R2
+R0
+w1543404382
+8E:/cmWork/learn-verilog/sequence_detect/simulation/modelsim/sequence_detect_vlg_tst.vt
+FE:/cmWork/learn-verilog/sequence_detect/simulation/modelsim/sequence_detect_vlg_tst.vt
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1543404473.966000
+!s107 E:/cmWork/learn-verilog/sequence_detect/simulation/modelsim/sequence_detect_vlg_tst.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/cmWork/learn-verilog/sequence_detect/simulation/modelsim|E:/cmWork/learn-verilog/sequence_detect/simulation/modelsim/sequence_detect_vlg_tst.vt|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+E:/cmWork/learn-verilog/sequence_detect/simulation/modelsim
